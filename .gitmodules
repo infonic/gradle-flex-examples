@@ -4,3 +4,6 @@
 [submodule "HelloWorldMultiProject/buildSrc"]
 	path = HelloWorldMultiProject/buildSrc
 	url = https://github.com/stevendick/gradle-flex.git
+[submodule "SingleLibrary/buildSrc"]
+	path = SingleLibrary/buildSrc
+	url = https://github.com/stevendick/gradle-flex.git

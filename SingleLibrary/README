@@ -1,0 +1,6 @@
+To build this Flex library with Gradle, open a command prompt in this directory and type:
+
+gradle -i build
+
+Gradle will compile the Flex library and publish the SWF file to the build directory.
+
